@@ -1,0 +1,31 @@
+body {
+    background-color: #aaaaaa;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+}
+
+.article-lead {
+    font-weight: bold;
+}
+
+.date {
+    font-style: italic;
+}
+
+.icon {
+    height: 20px;
+}
+
+.photo {
+    display: block;
+    margin: auto;
+    width: 640px;
+}
+
+.photo-small {
+    display: block;
+    margin: auto;
+    width: auto;
+}
