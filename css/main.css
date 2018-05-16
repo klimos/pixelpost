@@ -37,3 +37,9 @@ body {
     margin: auto;
     width: auto;
 }
+
+.centered-strong-list {
+    list-style-type: none;
+    text-align: center;
+    font-weight: bold;
+}
